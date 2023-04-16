@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The best way to prepare crispy",
+        "date": "August 23, 2021",
+        "text": "Lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quia nostrud exercitatino ullamco.",
+        "image": "../images/blog/cake.png"
+    },
+    {
+        "title": "The best way to prepare fish fry",
+        "date": "August 23, 2021",
+        "text": "Lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quia nostrud exercitatino ullamco.",
+        "image": "../images/blog/cripsy.png"
+    },
+    {
+        "title": "The best way to prepare cake",
+        "date": "August 23, 2021",
+        "text": "Lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quia nostrud exercitatino ullamco.",
+        "image": "../images/blogs/fish fry.png"
+    },
+    {
+        "title": "The best way to prepare Ice Cream",
+        "date": "August 23, 2021",
+        "text": "Lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quia nostrud exercitatino ullamco.",
+        "image": "../images/blogs/ice cream.png"
+    }
+
+]

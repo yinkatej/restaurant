@@ -1,0 +1,17 @@
+[{
+    "image": "../images/chegs/anna.png",
+    "name": "anna doe",
+    "title": "General Chef"
+
+},
+{
+    "image":"../images/chegs/george.png",
+    "name": "paul doe",
+    "title": "Owner"
+},
+{
+    "image": "../images/chegs/paul.png",
+    "name": "george doe",
+    "title": "Baker"
+}
+]

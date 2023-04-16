@@ -1,0 +1,39 @@
+[
+    {
+        "image": ".../public/images/menu/calum.png",
+        "name": "Calum Lewis",
+        "price": 20.00,
+        "rating": 5
+    },
+    {
+        "image": ".../public/images/menu/pizza.png",
+        "name": "Hawaiian Pizza",
+        "price": 40.00,
+        "rating": 5
+    },
+    {
+        "image": "../images/menu/burger.png",
+        "name": "Cheese Burger",
+        "price": 20.00,
+        "rating": 5
+    },
+    {
+        "image": "../images/menu/chocolate.png",
+        "name": "Chocolate Desert",
+        "price": 25.00,
+        "rating": 5
+    }, {
+        "image": "../images/menu/fried egg.png",
+        "name": "Fried Eggs",
+        "price": 50.00,
+        "rating": 5
+    },
+    {
+        "image": "../images/menu/juice.png",
+        "name": "Hawaiin Juice",
+        "price": 15.00,
+        "rating": 5
+    }
+
+]
+ 

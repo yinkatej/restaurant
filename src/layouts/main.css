@@ -1,0 +1,20 @@
+.btn{
+    padding: 10px;
+    border: solid;
+    border-color: rgba(255, 255, 255, 0.171) ;
+    border-width: 1px;
+    background-color: rgb(50, 190, 7);
+    cursor: pointer;
+}
+
+.btn:nth-child(2){
+    background-color: inherit;
+    border-width: 0.5px;
+    margin-left: 15px;
+}
+hr{
+    border-color: rgba(109, 110, 107, 0.158);
+}
+p{
+    text-align: justify;
+}
